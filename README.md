@@ -8,8 +8,8 @@
 ### Final Score Equation: Distance_Score/Price_Score
 
 # Steps
-## Step1: Find all available drivers
-## Step2: Set Priority Score for Each Ride and Driver
-## Step1: Assign Maximum Score holder Driver to this ride
-## Upadte Driver Table
-## Repeat  Step 1-4
+## Step-1: Find all available drivers
+## Step-2: Set Priority Score for Each Ride and Driver
+## Step-3: Assign Maximum Score holder Driver to this ride
+## Step-4: Upadte Driver Table
+## Step-5: Repeat  Step (1-4)
